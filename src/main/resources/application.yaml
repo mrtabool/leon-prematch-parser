@@ -1,0 +1,10 @@
+leon:
+  api-url: "https://leon.bet/api-2"
+  target-sports: Football,Tennis,Ice Hockey,Basketball
+  async:
+    threads: 3
+    queue-capacity: 500
+
+logging:
+  level:
+    org.springframework.web.client.RestClient: DEBUG
