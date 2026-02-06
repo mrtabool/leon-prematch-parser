@@ -11,3 +11,6 @@ A high-performance Spring Boot application designed to parse betting lines from 
 ## Prerequisites
 * **Java 21** or higher
 * **Maven 3.9+**
+
+## Note
+Application will be stopped automatically after work is done
